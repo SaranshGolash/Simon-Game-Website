@@ -1,0 +1,62 @@
+body {
+    background-color: #011F3F;
+}
+
+div {
+    padding-bottom: 70px;
+}
+
+.div {
+    background-color: #034994;
+    border: solid black;
+    border-radius: 80px;
+    padding: 30px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    color: whitesmoke;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+strong {
+    color: rgb(254, 65, 65);
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    background-color: cyan;
+    border: solid black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+    opacity: 1.0;
+    background-color: rgb(71, 255, 255);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    padding-top: 30px;
+}

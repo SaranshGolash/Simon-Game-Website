@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+h1 {
+font-family: 'Press Start 2P', cursive;
+font-size: 6rem;
+margin:  5%;
+color: #FEF2BF;
+}
+
+.btn-success {
+  padding-right: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+  border: solid black;
+}
+
+.btn-info {
+  font-size: 20px;
+  font-weight: bolder;
+  border: solid black;
+}
+
+.btn-success:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.btn-info:hover {
+  opacity: 1.0;
+  cursor: pointer;
+  background-color: rgb(71, 255, 255);
+}
+
+footer {
+display: flex;
+justify-content: center;
+color: aliceblue;
+padding-top: 30px;
+}
